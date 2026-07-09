@@ -3,14 +3,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=200&section=header&text=Baljot%20Chohan&fontSize=48&fontColor=c4b5fd&animation=fadeIn&fontAlignY=35&desc=I%20build%20AI%20that%20remembers%2C%20reasons%2C%20and%20ships&descAlignY=55&descSize=18&descColor=8b5cf6" alt="banner" />
 
 <a href="https://github.com/baljotchohan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=680&height=50&lines=Building+KAIROS+%E2%80%94+AI+that+remembers+every+decision+a+company+makes;Building+FUSION+%E2%80%94+5+parallel+agents%2C+one+investment+call;Building+Lirox+%E2%80%94+a+reasoning+layer+that+runs+on+your+own+machine;Python+%C3%97+FastAPI+%C3%97+Next.js+%C3%97+LangGraph+%C3%97+MCP;Paste-ready+code.+No+day+plans.+Just+build." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=680&height=50&lines=Building+KAIROS+%E2%80%94+AI+that+remembers+every+decision+a+company+makes;Building+FUSION+%E2%80%94+5+parallel+agents%2C+one+investment+call;Building+Lirox+%E2%80%94+a+reasoning+layer+that+runs+on+your+own+machine;Python+%C3%97+FastAPI+%C3%97+Next.js+%C3%97+LangGraph+%C3%97+MCP" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=baljotchohan&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-<img src="https://img.shields.io/github/followers/baljotchohan?style=for-the-badge&color=8b5cf6&labelColor=0d1117&logo=github" alt="followers" />
-<img src="https://img.shields.io/badge/AMD_Hackathon-ACT_II-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="amd hackathon" />
 
 </div>
 
@@ -67,15 +61,10 @@ My default mode is **builder-first**: paste-ready code, no pseudocode, no "you c
 
 <br/>
 
-### GitHub Stats
+### Contributions
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-eight-alpha.vercel.app/api?username=baljotchohan&show_icons=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed&hide_border=false" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=baljotchohan&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border=7c3aed&disable_animations=true" alt="streak" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats-eight-alpha.vercel.app/api/top-langs/?username=baljotchohan&layout=compact&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="top langs" />
+<img src="https://ghchart.rshah.org/8b5cf6/baljotchohan" alt="contribution graph" />
 </div>
 
 <br/>
