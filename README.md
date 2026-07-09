@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=200&section=header&text=Baljot%20Chohan&fontSize=48&fontColor=c4b5fd&animation=fadeIn&fontAlignY=35&desc=Antigravity%20%C2%B7%20I%20build%20AI%20that%20remembers%20why&descAlignY=55&descSize=18&descColor=8b5cf6" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=200&section=header&text=Baljot%20Chohan&fontSize=48&fontColor=c4b5fd&animation=fadeIn&fontAlignY=35&desc=I%20build%20AI%20that%20remembers%2C%20reasons%2C%20and%20ships&descAlignY=55&descSize=18&descColor=8b5cf6" alt="banner" />
 
 <a href="https://github.com/baljotchohan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=680&height=50&lines=Building+KAIROS+%E2%80%94+AI+that+remembers+every+decision+a+company+makes;Building+FUSION+%E2%80%94+5+parallel+agents%2C+one+investment+call;Python+%C3%97+FastAPI+%C3%97+Next.js+%C3%97+LangGraph+%C3%97+MCP;Paste-ready+code.+No+day+plans.+Just+build." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=680&height=50&lines=Building+KAIROS+%E2%80%94+AI+that+remembers+every+decision+a+company+makes;Building+FUSION+%E2%80%94+5+parallel+agents%2C+one+investment+call;Building+Lirox+%E2%80%94+a+reasoning+layer+that+runs+on+your+own+machine;Python+%C3%97+FastAPI+%C3%97+Next.js+%C3%97+LangGraph+%C3%97+MCP;Paste-ready+code.+No+day+plans.+Just+build." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,46 +18,21 @@
 
 ### About
 
-I'm 18, based in Punjab, India, and I build multi-agent AI systems that ship — not demos that only work in a notebook. Every project below runs a real orchestration layer (LangGraph), a real backend (FastAPI), a real frontend (Next.js), and is dockerized end to end.
+I'm 18, based in Punjab, India, and I build autonomous multi-agent AI systems that ship — not demos that only work in a notebook. A reasoning layer that runs on your own machine, a committee of agents that argue out a VC investment call, an OS that remembers why a company decided what it decided — different shapes, same core skill: real orchestration (LangGraph), a real backend (FastAPI), a real frontend (Next.js), dockerized end to end.
 
 My default mode is **builder-first**: paste-ready code, no pseudocode, no "you could do X here." If something's a stub, I say so — I don't pretend it's done.
 
 <br/>
 
-### What I'm Building
+### Pinned
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🧠 [KAIROS](https://github.com/baljotchohan/kairos)**
+<div align="center">
+<a href="https://github.com/baljotchohan/Lirox"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=Lirox&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="Lirox" /></a>
+<a href="https://github.com/baljotchohan/kairos"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=kairos&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="KAIROS" /></a>
 <br/>
-<sub>Company Organizational Memory OS — AMD Developer Hackathon ACT II</sub>
-
-Every company forgets why it made its decisions. KAIROS connects to Slack, Gmail, Drive, Notion, Zoom, Jira, and GitHub, extracts every decision and its context via 10 parallel agents, and answers "why did we do this?" in seconds — fully sourced.
-
-- Hand-written Canvas 2D force-directed physics engine for the decision graph — no D3, no WebGL
-- Dual-transport MCP server (stdio + remote OAuth) — Claude, ChatGPT, and Cursor can read *and write* company memory
-- ChromaDB + SQLite + NetworkX memory layer, fail-closed multi-tenancy
-- Fireworks AI on AMD Instinct GPUs, with a Groq/Gemini fallback chain
-
-</td>
-<td width="50%" valign="top">
-
-**📈 [FUSION](https://github.com/baljotchohan/fusion)**
-<br/>
-<sub>AI-powered VC investment committee — <a href="https://fusionos.vercel.app">live demo</a></sub>
-
-5 parallel AI agents argue out a real investment committee — each with a distinct mandate — and converge on one call, streamed live over WebSocket so you watch the reasoning happen, not just the verdict.
-
-- LangGraph orchestration across 5 concurrent agent roles
-- Real-time WebSocket UI — every token, every disagreement, visible
-- FastAPI + Next.js, MCP server for external tool access
-- Built as the architectural precursor to KAIROS
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/baljotchohan/fusion"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=fusion&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="FUSION" /></a>
+<a href="https://github.com/baljotchohan/BCA-2ND-SEM"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=BCA-2ND-SEM&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="BCA-2ND-SEM" /></a>
+</div>
 
 <br/>
 
@@ -95,12 +70,12 @@ Every company forgets why it made its decisions. KAIROS connects to Slack, Gmail
 ### GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=baljotchohan&show_icons=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed&hide_border=false" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=baljotchohan&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border=7c3aed" alt="streak" />
+<img height="165" src="https://github-readme-stats-eight-alpha.vercel.app/api?username=baljotchohan&show_icons=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed&hide_border=false" alt="stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=baljotchohan&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border=7c3aed&disable_animations=true" alt="streak" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=baljotchohan&layout=compact&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="top langs" />
+<img src="https://github-readme-stats-eight-alpha.vercel.app/api/top-langs/?username=baljotchohan&layout=compact&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="top langs" />
 </div>
 
 <br/>
@@ -118,6 +93,6 @@ That's not a slogan — it's the non-negotiables list at the top of every `CLAUD
 [![GitHub](https://img.shields.io/badge/GitHub-baljotchohan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baljotchohan)
 [![Email](https://img.shields.io/badge/Email-jattbad328%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jattbad328@gmail.com)
 
-<sub>Built by Antigravity · "Every company forgets why. KAIROS never does."</sub>
+<sub>"Every company forgets why it made its decisions. I build the systems that don't."</sub>
 
 </div>
