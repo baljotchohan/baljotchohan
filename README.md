@@ -24,7 +24,7 @@ My default mode is **builder-first**: paste-ready code, no pseudocode, no "you c
 <a href="https://github.com/baljotchohan/Lirox"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=Lirox&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="Lirox" /></a>
 <a href="https://github.com/baljotchohan/kairos"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=kairos&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="KAIROS" /></a>
 <br/>
-<a href="https://github.com/baljotchohan/fusion"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=fusion&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="FUSION" /></a>
+
 <a href="https://github.com/baljotchohan/BCA-2ND-SEM"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=BCA-2ND-SEM&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="BCA-2ND-SEM" /></a>
 </div>
 
