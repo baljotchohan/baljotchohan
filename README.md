@@ -14,7 +14,7 @@
 
 I'm 19, based in Punjab, India, and I build autonomous multi-agent AI systems that ship — not demos that only work in a notebook. A reasoning layer that runs on your own machine, a committee of agents that argue out a VC investment call, an OS that remembers why a company decided what it decided — different shapes, same core skill: real orchestration (LangGraph), a real backend (FastAPI), a real frontend (Next.js), dockerized end to end.
 
-My default mode is **builder-first**: paste-ready code, no pseudocode, no "you could do X here." If something's a stub, I say so — I don't pretend it's done.
+
 
 <br/>
 
