@@ -1,87 +1,92 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=200&section=header&text=Baljot%20Chohan&fontSize=48&fontColor=c4b5fd&animation=fadeIn&fontAlignY=35&desc=I%20build%20AI%20that%20remembers%2C%20reasons%2C%20and%20ships&descAlignY=55&descSize=18&descColor=8b5cf6" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:1f2937,70:7a2e0b,100:f59e0b&height=220&section=header&text=Baljot%20Chohan&fontSize=52&fontColor=fff7ed&fontAlignY=37&desc=Diwali%20Edition%20%E2%80%94%20Building%20AI%20that%20remembers%2C%20reasons%2C%20and%20ships&descAlignY=58&descSize=16&descColor=fed7aa" alt="Diwali-themed banner for Baljot Chohan profile" />
 
-<a href="https://github.com/baljotchohan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=680&height=50&lines=Building+KAIROS+%E2%80%94+AI+that+remembers+every+decision+a+company+makes;Building+FUSION+%E2%80%94+5+parallel+agents%2C+one+investment+call;Building+Lirox+%E2%80%94+a+reasoning+layer+that+runs+on+your+own+machine;Python+%C3%97+FastAPI+%C3%97+Next.js+%C3%97+LangGraph+%C3%97+MCP" alt="Typing SVG" />
-</a>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=18&duration=1&pause=60000&color=FBBF24&center=true&vCenter=true&width=760&height=45&lines=%E0%A4%A6%E0%A5%80%E0%A4%AA%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8%E0%A5%80%2C+%E0%A4%B8%E0%A4%BE%E0%A4%AB%E0%A4%BC+%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%95%2C+%E0%A4%94%E0%A4%B0+%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B5%E0%A4%BF%E0%A4%95+%E0%A4%B6%E0%A4%BF%E0%A4%AA%E0%A4%BF%E0%A4%82%E0%A4%97" alt="Hindi tagline celebrating light, clarity, and shipping real systems" />
 
 <br/>
 
-### About
+<img src="https://img.shields.io/badge/%F0%9F%AA%94%20Diwali%20Palette-111827?style=for-the-badge&labelColor=f59e0b&color=111827" alt="Diwali palette badge" />
+<img src="https://img.shields.io/badge/Deep%20Charcoal-%23111827?style=for-the-badge" alt="Deep charcoal theme color" />
+<img src="https://img.shields.io/badge/Marigold%20Gold-%23FBBF24?style=for-the-badge" alt="Marigold gold accent color" />
+<img src="https://img.shields.io/badge/Vermilion-%23DC2626?style=for-the-badge" alt="Vermilion accent color" />
+
+</div>
+
+---
+
+## 🪔 A Calm Festival Build Philosophy
 
 I'm 19, based in Punjab, India, and I build autonomous multi-agent AI systems that ship — not demos that only work in a notebook. A reasoning layer that runs on your own machine, a committee of agents that argue out a VC investment call, an OS that remembers why a company decided what it decided — different shapes, same core skill: real orchestration (LangGraph), a real backend (FastAPI), a real frontend (Next.js), dockerized end to end.
 
+> Like a Diwali diya: small source, steady flame, meaningful light. I design systems that stay reliable under real-world pressure.
 
+---
 
-<br/>
-
-### Pinned
-
-<div align="center">
-<a href="https://github.com/baljotchohan/Lirox"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=Lirox&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="Lirox" /></a>
-<a href="https://github.com/baljotchohan/kairos"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=kairos&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="KAIROS" /></a>
-<br/>
-
-<a href="https://github.com/baljotchohan/BCA-2ND-SEM"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=BCA-2ND-SEM&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&border_color=7c3aed" alt="BCA-2ND-SEM" /></a>
-</div>
-
-<br/>
-
-### Tech Stack
+## ✨ Featured Work
 
 <div align="center">
-
-**Languages & Core**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-**Backend & Orchestration**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=8b5cf6" />
-<img src="https://img.shields.io/badge/MCP_Servers-8b5cf6?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/WebSocket-8b5cf6?style=for-the-badge&labelColor=0d1117" />
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-**Data & Infra**
-
-<img src="https://img.shields.io/badge/ChromaDB-8b5cf6?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
+  <a href="https://github.com/baljotchohan/Lirox"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=Lirox&title_color=fbbf24&icon_color=f59e0b&text_color=ffedd5&bg_color=111827&border_color=7a2e0b" alt="Pinned repository: Lirox" /></a>
+  <a href="https://github.com/baljotchohan/kairos"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=kairos&title_color=fbbf24&icon_color=f59e0b&text_color=ffedd5&bg_color=111827&border_color=7a2e0b" alt="Pinned repository: Kairos" /></a>
+  <br/>
+  <a href="https://github.com/baljotchohan/BCA-2ND-SEM"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=BCA-2ND-SEM&title_color=fbbf24&icon_color=f59e0b&text_color=ffedd5&bg_color=111827&border_color=7a2e0b" alt="Pinned repository: BCA 2nd Semester" /></a>
 </div>
 
-<br/>
+---
 
-### Contributions
+## 🧰 Tech Stack
 
 <div align="center">
-<img src="https://ghchart.rshah.org/8b5cf6/baljotchohan" alt="contribution graph" />
+
+### Languages & Core
+
+<img src="https://img.shields.io/badge/Python-7c3b00?style=for-the-badge&logo=python&logoColor=ffe4c7" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-8b1e3f?style=for-the-badge&logo=typescript&logoColor=ffe4c7" alt="TypeScript" />
+
+### Backend & Orchestration
+
+<img src="https://img.shields.io/badge/FastAPI-0f766e?style=for-the-badge&logo=fastapi&logoColor=fef3c7" alt="FastAPI" />
+<img src="https://img.shields.io/badge/LangGraph-1f2937?style=for-the-badge&logo=langchain&logoColor=fbbf24" alt="LangGraph" />
+<img src="https://img.shields.io/badge/MCP%20Servers-7a2e0b?style=for-the-badge&logoColor=fff7ed" alt="MCP Servers" />
+<img src="https://img.shields.io/badge/WebSocket-7a2e0b?style=for-the-badge&logoColor=fff7ed" alt="WebSocket" />
+
+### Frontend
+
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=fff7ed" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=fcd34d" alt="React" />
+
+### Data & Infra
+
+<img src="https://img.shields.io/badge/ChromaDB-7a2e0b?style=for-the-badge&logoColor=fff7ed" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/Docker-0c4a6e?style=for-the-badge&logo=docker&logoColor=fff7ed" alt="Docker" />
+<img src="https://img.shields.io/badge/Firebase-b45309?style=for-the-badge&logo=firebase&logoColor=fef3c7" alt="Firebase" />
+
 </div>
 
-<br/>
+---
 
-### How I Build
+## 🎇 Contributions
+
+<div align="center">
+<img src="https://ghchart.rshah.org/f59e0b/baljotchohan" alt="Contribution graph in marigold tones" />
+</div>
+
+---
+
+## 🕯️ How I Build
 
 > Every answer streams. Every claim cites its source. Every read/write is scoped to whoever's asking — fail closed, not open. If it's not verified live, I don't call it done.
 
 That's not a slogan — it's the non-negotiables list at the top of every `CLAUDE.md` I write.
 
-<br/>
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-baljotchohan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baljotchohan)
-[![Email](https://img.shields.io/badge/Email-jattbad328%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jattbad328@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-baljotchohan-111827?style=for-the-badge&logo=github&logoColor=fff7ed)](https://github.com/baljotchohan)
+[![Email](https://img.shields.io/badge/Email-jattbad328%40gmail.com-7a2e0b?style=for-the-badge&logo=gmail&logoColor=fff7ed)](mailto:jattbad328@gmail.com)
 
-<sub>"Every company forgets why it made its decisions. I build the systems that don't."</sub>
+<br/>
+<sub><strong>🪔 "Every company forgets why it made its decisions. I build the systems that don't."</strong></sub>
 
 </div>
