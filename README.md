@@ -15,7 +15,6 @@
 
 ---
 
-## 🪔 A Calm Festival Build Philosophy
 
 I'm 19, based in Punjab, India, and I build autonomous multi-agent AI systems that ship — not demos that only work in a notebook. A reasoning layer that runs on your own machine, a committee of agents that argue out a VC investment call, an OS that remembers why a company decided what it decided — different shapes, same core skill: real orchestration (LangGraph), a real backend (FastAPI), a real frontend (Next.js), dockerized end to end.
 
