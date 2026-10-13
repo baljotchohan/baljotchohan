@@ -2,16 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:1f2937,70:7a2e0b,100:f59e0b&height=220&section=header&text=Baljot%20Chohan&fontSize=52&fontColor=fff7ed&fontAlignY=37&desc=Diwali%20Edition%20%E2%80%94%20Building%20AI%20that%20remembers%2C%20reasons%2C%20and%20ships&descAlignY=58&descSize=16&descColor=fed7aa" alt="Diwali-themed banner for Baljot Chohan profile" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=18&duration=1&pause=60000&color=FBBF24&center=true&vCenter=true&width=760&height=45&lines=%E0%A4%A6%E0%A5%80%E0%A4%AA%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8%E0%A5%80%2C+%E0%A4%B8%E0%A4%BE%E0%A4%AB%E0%A4%BC+%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%95%2C+%E0%A4%94%E0%A4%B0+%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B5%E0%A4%BF%E0%A4%95+%E0%A4%B6%E0%A4%BF%E0%A4%AA%E0%A4%BF%E0%A4%82%E0%A4%97" alt="Hindi tagline celebrating light, clarity, and shipping real systems" />
+<img src="https://readme-typing-svg.demolab.com?/>
 
 <br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%AA%94%20Diwali%20Palette-111827?style=for-the-badge&labelColor=f59e0b&color=111827" alt="Diwali palette badge" />
-<img src="https://img.shields.io/badge/Deep%20Charcoal-%23111827?style=for-the-badge" alt="Deep charcoal theme color" />
-<img src="https://img.shields.io/badge/Marigold%20Gold-%23FBBF24?style=for-the-badge" alt="Marigold gold accent color" />
-<img src="https://img.shields.io/badge/Vermilion-%23DC2626?style=for-the-badge" alt="Vermilion accent color" />
-
-</div>
 
 ---
 
