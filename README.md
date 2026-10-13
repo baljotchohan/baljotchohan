@@ -2,11 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:1f2937,70:7a2e0b,100:f59e0b&height=220&section=header&text=Baljot%20Chohan&fontSize=52&fontColor=fff7ed&fontAlignY=37&desc=Diwali%20Edition%20%E2%80%94%20Building%20AI%20that%20remembers%2C%20reasons%2C%20and%20ships&descAlignY=58&descSize=16&descColor=fed7aa" alt="Diwali-themed banner for Baljot Chohan profile" />
 
-<img src="https://readme-typing-svg.demolab.com?/>
 
-<br/>
-
----
 
 
 I'm 19, based in Punjab, India, and I build autonomous multi-agent AI systems that ship — not demos that only work in a notebook. A reasoning layer that runs on your own machine, a committee of agents that argue out a VC investment call, an OS that remembers why a company decided what it decided — different shapes, same core skill: real orchestration (LangGraph), a real backend (FastAPI), a real frontend (Next.js), dockerized end to end.
