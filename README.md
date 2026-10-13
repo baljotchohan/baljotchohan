@@ -15,8 +15,7 @@ I'm 19, based in Punjab, India, and I build autonomous multi-agent AI systems th
 
 <div align="center">
   <a href="https://github.com/baljotchohan/Lirox"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=Lirox&title_color=fbbf24&icon_color=f59e0b&text_color=ffedd5&bg_color=111827&border_color=7a2e0b" alt="Pinned repository: Lirox" /></a>
-  <a href="https://github.com/baljotchohan/kairos"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=kairos&title_color=fbbf24&icon_color=f59e0b&text_color=ffedd5&bg_color=111827&border_color=7a2e0b" alt="Pinned repository: Kairos" /></a>
-  <br/>
+  
   <a href="https://github.com/baljotchohan/BCA-2ND-SEM"><img width="410" src="https://github-readme-stats-eight-alpha.vercel.app/api/pin/?username=baljotchohan&repo=BCA-2ND-SEM&title_color=fbbf24&icon_color=f59e0b&text_color=ffedd5&bg_color=111827&border_color=7a2e0b" alt="Pinned repository: BCA 2nd Semester" /></a>
 </div>
 
